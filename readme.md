@@ -38,30 +38,30 @@ Design patterns are generally grouped into the following categories:
 ## 🌟 **Essential Design Patterns Every Developer Should Know**
 
 ### 🏗️ Creational Patterns
-- Factory
-- Builder
-- Prototype
-- Singleton
+- [Factory](factory.md)
+- [Builder](builder.md)
+- [Prototype](prototype.md)
+- [Singleton](singleton.md)
 
 ### 🧩 Structural Patterns
-- Adapter
-- Decorator
-- Facade
-- Module
-- Proxy
-- Revealing Module
+- [Adapter](adapter.md)
+- [Decorator](decorator.md)
+- [Facade](facade.md)
+- [Module](module.md)
+- [Proxy](proxy.md)
+- [Revealing Module](revealing-module.md)
 
 ### 🔄 Behavioral Patterns
-- Chain of Responsibility
-- Command
-- Middleware
-- Observer
-- State
-- Strategy
-- Template Method
+- [Chain of Responsibility](chain-of-responsibility.md)
+- [Command](command.md)
+- [Middleware](middleware.md)
+- [Observer](observer.md)
+- [State](state.md)
+- [Strategy](strategy.md)
+- [Template Method](template-method.md)
 
 ### ⏳ Asynchronous Patterns
-- Promise/Async
+- [Promise/Async](promise-async.md)
 
 ---
 
